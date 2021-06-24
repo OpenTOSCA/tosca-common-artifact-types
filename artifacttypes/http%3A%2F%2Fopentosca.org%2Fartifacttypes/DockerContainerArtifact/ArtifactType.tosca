@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Definitions targetNamespace="http://opentosca.org/artifacttypes" id="winery-defs-for_artifacttypes-DockerContainerArtifact" xmlns="http://docs.oasis-open.org/tosca/ns/2011/12">
+<Definitions targetNamespace="http://opentosca.org/artifacttypes" id="artifactTypes-DockerContainerArtifact" xmlns="http://docs.oasis-open.org/tosca/ns/2011/12">
     <ArtifactType name="DockerContainerArtifact" abstract="no" final="no" targetNamespace="http://opentosca.org/artifacttypes">
         <DerivedFrom xmlns:ToscaNormativeArtifactTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/artifacttypes" typeRef="ToscaNormativeArtifactTypes:Deployment"/>
     </ArtifactType>
