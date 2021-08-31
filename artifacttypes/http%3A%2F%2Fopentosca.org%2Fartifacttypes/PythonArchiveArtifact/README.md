@@ -1,16 +1,17 @@
+### PythonArchiveArtifact 
 ArtifactType used to implement TOSCA Operation via Python 3 scripts
 
-Usage:
+### Usage:
 
 Add a single zip file with the following structure:
 
-- Single *.py file in root
-- Single requirements.txt file in root
-- Anything else can be in subfolders
+- Single, and not more,  *.py file in root
+- Optional single requirements.txt file in root
+- Anything else can be added to the archive as well
 
-Example python file:
+### Example python file:
 
-```
+```python
 #!/usr/bin/env python
 import sys
 import os

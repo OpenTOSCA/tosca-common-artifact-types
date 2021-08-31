@@ -1,12 +1,13 @@
+### PythonScriptArtifact
 ArtifactType used to implement TOSCA Operation via a single Python 3 script
 
-Usage:
+### Usage:
 
 Add a single python 3 script file as a file
 
-Example python file:
+### Example python file:
 
-```
+```python
 #!/usr/bin/env python
 import sys
 import os
