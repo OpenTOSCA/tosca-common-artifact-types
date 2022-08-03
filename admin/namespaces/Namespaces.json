@@ -5,6 +5,7 @@
     "readableName" : "TOSCA extension by Eclipse Winery",
     "generatedNamespace" : false,
     "patternCollection" : false,
+    "repositoryId" : "OpenTOSCA-ArtifactTypes",
     "secureCollection" : false
   },
   "http://opentosca.org/artifacttypes" : {
@@ -13,6 +14,7 @@
     "readableName" : "",
     "generatedNamespace" : false,
     "patternCollection" : false,
+    "repositoryId" : "OpenTOSCA-ArtifactTypes",
     "secureCollection" : false
   },
   "http://www.w3.org/2001/XMLSchema" : {
@@ -21,6 +23,7 @@
     "readableName" : "W3C XML schema namespace",
     "generatedNamespace" : false,
     "patternCollection" : false,
+    "repositoryId" : "OpenTOSCA-ArtifactTypes",
     "secureCollection" : false
   }
 }
