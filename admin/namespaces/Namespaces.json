@@ -1,29 +1,37 @@
 {
-  "http://www.opentosca.org/winery/extensions/tosca/2013/02/12" : {
-    "namespace" : "http://www.opentosca.org/winery/extensions/tosca/2013/02/12",
-    "prefix" : "winery",
-    "readableName" : "TOSCA extension by Eclipse Winery",
-    "generatedNamespace" : false,
-    "patternCollection" : false,
-    "repositoryId" : "OpenTOSCA-ArtifactTypes",
-    "secureCollection" : false
+  "http://www.opentosca.org/winery/extensions/tosca/2013/02/12": {
+    "namespace": "http://www.opentosca.org/winery/extensions/tosca/2013/02/12",
+    "prefix": "winery",
+    "readableName": "TOSCA extension by Eclipse Winery",
+    "generatedNamespace": false,
+    "patternCollection": false,
+    "repositoryId": "OpenTOSCA-ArtifactTypes",
+    "secureCollection": false
   },
-  "http://opentosca.org/artifacttypes" : {
-    "namespace" : "http://opentosca.org/artifacttypes",
-    "prefix" : "artifactTypes",
-    "readableName" : "",
-    "generatedNamespace" : false,
-    "patternCollection" : false,
-    "repositoryId" : "OpenTOSCA-ArtifactTypes",
-    "secureCollection" : false
+  "http://opentosca.org/artifacttypes": {
+    "namespace": "http://opentosca.org/artifacttypes",
+    "prefix": "artifactTypes",
+    "readableName": "",
+    "generatedNamespace": false,
+    "patternCollection": false,
+    "repositoryId": "OpenTOSCA-ArtifactTypes",
+    "secureCollection": false
   },
-  "http://www.w3.org/2001/XMLSchema" : {
-    "namespace" : "http://www.w3.org/2001/XMLSchema",
-    "prefix" : "xsd",
-    "readableName" : "W3C XML schema namespace",
-    "generatedNamespace" : false,
-    "patternCollection" : false,
-    "repositoryId" : "OpenTOSCA-ArtifactTypes",
-    "secureCollection" : false
+  "http://www.w3.org/2001/XMLSchema": {
+    "namespace": "http://www.w3.org/2001/XMLSchema",
+    "prefix": "xsd",
+    "readableName": "W3C XML schema namespace",
+    "generatedNamespace": false,
+    "patternCollection": false,
+    "repositoryId": "OpenTOSCA-ArtifactTypes",
+    "secureCollection": false
+  },
+  "http://opentosca.org/driverinjection/artifacttypes": {
+    "namespace": "http://opentosca.org/driverinjection/artifacttypes",
+    "prefix": "driverInjectionArtifactTypes",
+    "readableName": "",
+    "generatedNamespace": false,
+    "patternCollection": false,
+    "secureCollection": false
   }
 }
